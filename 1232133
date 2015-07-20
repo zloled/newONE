@@ -1,0 +1,17 @@
+var tired = false;
+var bored = true;
+
+var nap = function() {
+  // Add your if/else statement here!
+  if (bored || tired)
+  {
+      return true;
+      console.log('123');
+      
+      
+  }
+  else
+  {
+       console.log('112323');
+      return false;}
+};
